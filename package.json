@@ -54,8 +54,8 @@
     "staticpath": "demo/dist"
   },
   "dependencies": {
-    "commonmark": "^0.24.0",
-    "commonmark-react-renderer": "^4.2.4",
+    "commonmark": "dwetterau/commonmark.js#92df416d",
+    "commonmark-react-renderer": "dwetterau/commonmark-react-renderer#a1b2c3357",
     "in-publish": "^2.0.0",
     "prop-types": "^15.5.1"
   },
