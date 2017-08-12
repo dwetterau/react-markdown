@@ -26,6 +26,3 @@ build/Release
 node_modules
 vendor
 
-# UMD build
-umd
-
